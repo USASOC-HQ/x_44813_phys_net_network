@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Physical Networks">f26348390fe43300d12eba8ce1050ee9</application>
+        <filter/>
+        <name>Physical Networks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_44813_phys_net.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-04-01 22:03:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b26348390fe43300d12eba8ce1050eeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Physical Networks</sys_name>
+        <sys_package display_value="Physical Networks" source="x_44813_phys_net">ede208f50fe43300d12eba8ce1050e84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Physical Networks">ede208f50fe43300d12eba8ce1050e84</sys_scope>
+        <sys_update_name>sys_ui_module_b26348390fe43300d12eba8ce1050eeb</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-04-01 22:03:01</sys_updated_on>
+        <table>x_44813_phys_net_network</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
