@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>erwinel_da</sys_created_by>
-            <sys_created_on>2019-04-01 22:05:55</sys_created_on>
-            <sys_id>ad1484790fe43300d12eba8ce1050ec7</sys_id>
+            <sys_created_on>2019-04-01 22:13:32</sys_created_on>
+            <sys_id>4dd5ccf90fe43300d12eba8ce1050ecb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_44813_phys_net_network" sys_domain="global" view="Default view">c8a388390fe43300d12eba8ce1050ebb</sys_ui_section>
             <sys_updated_by>erwinel_da</sys_updated_by>
-            <sys_updated_on>2019-04-01 22:05:55</sys_updated_on>
+            <sys_updated_on>2019-04-01 22:13:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>short_description</element>
             <position>1</position>
             <sys_created_by>erwinel_da</sys_created_by>
-            <sys_created_on>2019-04-01 22:05:55</sys_created_on>
-            <sys_id>211484790fe43300d12eba8ce1050ec8</sys_id>
+            <sys_created_on>2019-04-01 22:13:32</sys_created_on>
+            <sys_id>cdd5ccf90fe43300d12eba8ce1050ecb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_44813_phys_net_network" sys_domain="global" view="Default view">c8a388390fe43300d12eba8ce1050ebb</sys_ui_section>
             <sys_updated_by>erwinel_da</sys_updated_by>
-            <sys_updated_on>2019-04-01 22:05:55</sys_updated_on>
+            <sys_updated_on>2019-04-01 22:13:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,41 +32,13 @@
             <element>operational_status</element>
             <position>2</position>
             <sys_created_by>erwinel_da</sys_created_by>
-            <sys_created_on>2019-04-01 22:05:55</sys_created_on>
-            <sys_id>a11484790fe43300d12eba8ce1050ec8</sys_id>
+            <sys_created_on>2019-04-01 22:13:32</sys_created_on>
+            <sys_id>41d5ccf90fe43300d12eba8ce1050ecc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_44813_phys_net_network" sys_domain="global" view="Default view">c8a388390fe43300d12eba8ce1050ebb</sys_ui_section>
             <sys_updated_by>erwinel_da</sys_updated_by>
-            <sys_updated_on>2019-04-01 22:05:55</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>category</element>
-            <position>3</position>
-            <sys_created_by>erwinel_da</sys_created_by>
-            <sys_created_on>2019-04-01 22:05:55</sys_created_on>
-            <sys_id>251484790fe43300d12eba8ce1050ec8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_44813_phys_net_network" sys_domain="global" view="Default view">c8a388390fe43300d12eba8ce1050ebb</sys_ui_section>
-            <sys_updated_by>erwinel_da</sys_updated_by>
-            <sys_updated_on>2019-04-01 22:05:55</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>install_status</element>
-            <position>4</position>
-            <sys_created_by>erwinel_da</sys_created_by>
-            <sys_created_on>2019-04-01 22:05:55</sys_created_on>
-            <sys_id>a51484790fe43300d12eba8ce1050ec8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_44813_phys_net_network" sys_domain="global" view="Default view">c8a388390fe43300d12eba8ce1050ebb</sys_ui_section>
-            <sys_updated_by>erwinel_da</sys_updated_by>
-            <sys_updated_on>2019-04-01 22:05:55</sys_updated_on>
+            <sys_updated_on>2019-04-01 22:13:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
