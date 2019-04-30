@@ -16,7 +16,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Configuration Item" name="cmdb_ci">b23d343b65022300aadb05e0fb3edf6a</super_class>
+        <super_class display_value="Configuration Item" name="cmdb_ci">d98948d7db003300b53f341f7c961923</super_class>
         <sys_class_code>$#</sys_class_code>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path>/!!/$#</sys_class_path>
