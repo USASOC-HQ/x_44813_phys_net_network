@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci" label="Physical Network" max_length="40" name="x_44813_phys_net_network" sizeclass="6" type="collection">
+    <element extends="cmdb_ci" label="Physical Network" max_length="40" name="x_44813_phys_net_network" sizeclass="4" type="collection">
         <element attributes="readonly_clickthrough=true" label="Asset" max_length="32" name="asset" read_only="true" reference="alm_asset" reference_cascade_rule="delete" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Asset tag" max_length="40" name="asset_tag" type="string"/>
         <element label="Assigned" max_length="40" name="assigned" type="glide_date_time"/>
@@ -73,7 +73,6 @@
         <element default="global" label="Domain" max_length="32" name="sys_domain" type="domain_id"/>
         <element label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
         <element label="Requires verification" max_length="40" name="unverified" read_only="true" type="boolean"/>
-        <element label="Vendor" max_length="32" name="vendor" reference="core_company" reference_qual="vendor=true" type="reference"/>
         <element label="Warranty expiration" max_length="40" name="warranty_expiration" type="glide_date"/>
         <index name="index">
             <element name="sys_domain"/>
@@ -94,31 +93,31 @@
             <element name="sys_domain_path"/>
         </index>
         <index name="index7">
-            <element name="cost_center"/>
+            <element name="maintenance_schedule"/>
         </index>
         <index name="index8">
-            <element name="supported_by"/>
+            <element name="cost_center"/>
         </index>
         <index name="index9">
-            <element name="name"/>
+            <element name="supported_by"/>
         </index>
         <index name="index10">
-            <element name="assignment_group"/>
+            <element name="name"/>
         </index>
         <index name="index11">
-            <element name="managed_by"/>
+            <element name="assignment_group"/>
         </index>
         <index name="index12">
-            <element name="sys_class_name"/>
+            <element name="managed_by"/>
         </index>
         <index name="index13">
-            <element name="manufacturer"/>
+            <element name="sys_class_name"/>
         </index>
         <index name="index14">
-            <element name="mac_address"/>
+            <element name="manufacturer"/>
         </index>
         <index name="index15">
-            <element name="vendor"/>
+            <element name="mac_address"/>
         </index>
         <index name="index16">
             <element name="company"/>
