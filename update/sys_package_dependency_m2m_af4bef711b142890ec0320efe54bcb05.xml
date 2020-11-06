@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">c48908d7db003300b53f341f7c961919</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2020-11-06 17:13:53</sys_created_on>
+        <sys_id>af4bef711b142890ec0320efe54bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Physical Networks (erwinel)" source="x_44813_phys_net">ede208f50fe43300d12eba8ce1050e84</sys_package>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2020-11-06 17:13:53</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
